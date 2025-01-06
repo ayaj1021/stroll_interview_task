@@ -76,7 +76,7 @@ class _SelectQuoteSectionState extends State<SelectQuoteSection> {
                         ),
                         const HorizontalSpacing(10),
                         SizedBox(
-                          width: 118.w,
+                          width: 110.w,
                           child: Text(
                             data['quote'],
                             style: context.textTheme.s14w400.copyWith(

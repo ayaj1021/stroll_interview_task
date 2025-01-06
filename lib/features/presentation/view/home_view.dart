@@ -29,7 +29,7 @@ class _HomeViewState extends State<HomeView> {
             child: Image.asset('assets/images/fade.png'),
           ),
           SizedBox(
-            height: 470.h,
+            height: 500.h,
             width: width,
             child: Image.asset('assets/images/background.png'),
           ),
